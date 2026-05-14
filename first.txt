@@ -1,1 +1,4 @@
 Git practice
+
+- git add
+- git commit
