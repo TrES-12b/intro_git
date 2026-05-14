@@ -2,6 +2,11 @@ Git practice
 
 - git add
 - git commit
+  -v
 - git rm
 - git status
 - git diff
+- git push
+- git log
+  --oneline
+  -p
